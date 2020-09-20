@@ -4,7 +4,7 @@ Ever wonder what the Desktop of the Windows Runners on GitHub Actions looks like
 
 ![Screenshot](screenshot.png)
  should sork nos
-This functionality is like Appveyor's RDP functionality for their Windows workers:
+This functionality is  like Appveyor's RDP functionality for their Windows workers:
 
 https://www.appveyor.com/docs/how-to/rdp-to-build-worker/
 
