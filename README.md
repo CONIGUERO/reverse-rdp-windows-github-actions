@@ -8,7 +8,7 @@ This functionality is  like Appveyor's RDP functionality for their Windows worke
 
 https://www.appveyor.com/docs/how-to/rdp-to-build-worker/
 
-## Usage owo
+## Usage
 
 1. Assume Windows Runners cannot listen to ports. I didn't bother trying and ngrok worked anyway. So, signup for an [ngrok] account.
 2. Get the tunnel auth token at: https://dashboard.ngrok.com/auth .
